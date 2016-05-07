@@ -1,0 +1,7 @@
+Following http://guides.rubyonrails.org/getting_started.html
+
+#At the step ofshow content
+
+adding validation
+
+#rake routes --> will display all the routes in teh application
